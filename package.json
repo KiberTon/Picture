@@ -26,5 +26,13 @@
   "dependencies": {
     "json-server": "^0.17.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiberTon/Picture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KiberTon/Picture/issues"
+  },
+  "homepage": "https://github.com/KiberTon/Picture#readme",
   "description": ""
 }
